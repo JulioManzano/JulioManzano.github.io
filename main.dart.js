@@ -98091,7 +98091,7 @@ A.aIp.prototype={
 $1(a){return new A.ou(B.l8,$.bY())},
 $S:500}
 A.zR.prototype={
-O(a){var s,r=null,q=this.c,p=A.a_g(r,r,new A.tH("../assets/images/loading.gif",r,r)),o=A.a_g(r,r,new A.jI("https://image.tmdb.org/t/p/w500"+q.e,1,r)),n=A.vB(0,A.bB(r,r,B.k,r,B.GQ,new A.d5(A.aq(B.d.aU(127.5),33,33,33),r,r,r,r,r,r,B.ab),r,r,r,r,r,r,r),r,r,0,0,r,r),m=A.bm(q.c,r,r,r,r,B.Et,r,r)
+O(a){var s,r=null,q=this.c,p=A.a_g(r,r,new A.tH("images/loading.gif",r,r)),o=A.a_g(r,r,new A.jI("https://image.tmdb.org/t/p/w500"+q.e,1,r)),n=A.vB(0,A.bB(r,r,B.k,r,B.GQ,new A.d5(A.aq(B.d.aU(127.5),33,33,33),r,r,r,r,r,r,B.ab),r,r,r,r,r,r,r),r,r,0,0,r,r),m=A.bm(q.c,r,r,r,r,B.Et,r,r)
 q=A.KX("",A.bjG(q.w),", ")
 s=t.p
 return new A.RZ(A.cT(A.b([A.eY(B.aB,A.b([new A.FJ(p,o,B.tv,1/0,200,B.ke,r),n,A.vB(10,A.cT(A.b([m,A.bB(r,A.bm(q.charCodeAt(0)==0?q:q,1,B.av,r,r,B.Ev,r,r),B.k,r,r,r,r,r,r,B.MK,r,r,r)],s),B.b9,r,B.E,B.w),r,r,10,r,r,r)],s),B.A,B.am,r)],s),B.B,r,B.E,B.w),r)}}
@@ -98155,7 +98155,7 @@ A.w8.prototype={
 al(){return new A.a94(new A.bv(null,t.Wc),B.i)}}
 A.a94.prototype={
 O(a){var s=null,r=A.bc4(),q=A.xJ(B.uX,s,s,s,s,B.a5P),p=new A.aep()
-p.a="pdf/SendHelp.pdf"
+p.a="assets/pdf/SendHelp.pdf"
 return A.lS(q,s,new A.Kp(p,r,new A.aM3(),this.d),s,s,s)}}
 A.aM3.prototype={
 $1(a){},
