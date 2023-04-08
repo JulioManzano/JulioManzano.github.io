@@ -99837,8 +99837,8 @@ A.y0.prototype={
 L(a){var s=null
 return new A.bI(B.hX,A.eb(A.b([A.ix(this.e,B.P,s,s,s,0.9),A.bb(this.d,s,s,s,s,s,s,s)],t.p),B.z,s,B.bJ,B.w),s)}}
 A.Xh.prototype={
-L(a){var s=null,r=a.a_(t.l).f.a.b*0.33,q=this.c,p=q?r:r/3,o=q?210:80
-return A.Rz(A.cU(A.b([A.Rz(B.IK,s,s,s,B.bD,s,q?r/3*2:0,s,s),B.hb,A.bb("Julio Manzano",s,s,s,s,A.a9(a).p3.f,s,s),B.a7b,B.hb],t.p),B.z,s,B.C,B.w),B.dk,new A.aD(0,1/0,o,1/0),s,B.bD,s,p,B.bo,1/0)}}
+L(a){var s=null,r=this.c,q=r?220:73.33333333333333,p=r?220:80
+return A.Rz(A.cU(A.b([A.Rz(B.IK,s,s,s,B.bD,s,r?146.66666666666666:0,s,s),B.hb,A.bb("Julio Manzano",s,s,s,s,A.a9(a).p3.f,s,s),B.a7b,B.hb],t.p),B.z,s,B.C,B.w),B.dk,new A.aD(0,1/0,p,1/0),s,B.bD,s,q,B.bo,1/0)}}
 A.ZU.prototype={
 L(a){var s=null
 return A.cU(A.b([B.cU,new A.bI(B.N_,A.bb("Habilidades Tecnicas",s,s,s,s,A.a9(a).p3.x,s,s),s),B.PV,B.PW,B.PY,B.PX],t.p),B.bd,s,B.C,B.w)}}
@@ -146695,7 +146695,7 @@ B.IH=new A.EP(null)
 B.rK=new A.Su(null)
 B.II=new A.EQ(null,null,null,null,null,null,null,null,null)
 B.IJ=new A.ER(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.IK=new A.ET(null,null,B.r7,75,null)
+B.IK=new A.ET(null,null,B.r7,80,null)
 B.hJ=new A.fy(0,B.p)
 B.IL=new A.F0(B.pz)
 B.IM=new A.F0(null)
